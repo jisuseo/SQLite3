@@ -6,3 +6,6 @@ DDL (DAta Definition Language)
 CRUD = Create, Read, Update, Delete
 
 SQL = Structured Query Language 
+
+5.7
+https://www.youtube.com/watch?v=3j1J_y3BqqM&list=PLuHgQVnccGMCVyDPCW8_gXhxuAo44obWW&index=5
