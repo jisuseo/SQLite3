@@ -45,5 +45,6 @@ SELECT id, title FROM New_Table;
 SELECT * FROM New_Table ORDER BY id DESC;
 SELECT * FROM New_Table LIMIT 2; 
 SELECT * FROM New_Table LIMIT 1, 2; 
+UPDATE New_Table SET title = 'SQLite3', body = 'SQLite3 is...' WHERE id = 1;
 
 

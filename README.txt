@@ -27,3 +27,9 @@ SELECT * FROM New_Table ORDER BY id DESC;
 SELECT * FROM New_Table LIMIT 2; 
     SELECT * FROM New_Table LIMIT 1, 2; 
     ==> 제일 윗줄은 0번째 줄. 그럼 1번째 줄 부터 세어서 아래로 2번째 행까지만 불러옴
+
+
+6/7
+UPDATE
+!!! WHERE
+UPDATE New_Table SET title = 'SQLite3', body = 'SQLite3 is...' WHERE id = 1;
